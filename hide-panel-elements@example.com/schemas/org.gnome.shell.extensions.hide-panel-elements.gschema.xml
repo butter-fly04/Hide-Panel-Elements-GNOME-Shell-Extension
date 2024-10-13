@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.hide-panel-elements" path="/org/gnome/shell/extensions/hide-panel-elements/">
+    <key name="hide-accessibility" type="b">
+      <default>true</default>
+      <summary>Hide accessibility menu</summary>
+      <description>Whether to hide the accessibility menu from the panel</description>
+    </key>
+    <key name="hide-night-light" type="b">
+      <default>true</default>
+      <summary>Hide night light icon</summary>
+      <description>Whether to hide the night light icon from the panel</description>
+    </key>
+  </schema>
+</schemalist>
