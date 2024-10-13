@@ -13,7 +13,7 @@ This GNOME Shell extension allows you to hide specific panel elements in GNOME, 
 
 ### Easy Install (Recommended)
 
-1. Go to the [Releases](https://github.com/yourusername/hide-panel-elements/releases) page of this repository.
+1. Go to the [Releases](https://github.com/butter-fly04/Hide-Panel-Elements-GNOME-Shell-Extension/releases/tag/v3.0) page of this repository.
 2. Download the latest release ZIP file (`hide-panel-elements@example.com.zip`).
 3. Open the Extensions app in GNOME.
 4. Click the "Install from file..." button (it looks like a small package icon).
