@@ -2,7 +2,7 @@
     "name": "Hide Panel Elements",
     "description": "Hides the accessibility menu and night light icon from the GNOME Shell panel",
     "uuid": "hide-panel-elements@example.com",
-    "shell-version": ["46"],
+    "shell-version": ["46","47"],
     "version": 3,
     "settings-schema": "org.gnome.shell.extensions.hide-panel-elements"
 }
